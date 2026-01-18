@@ -180,7 +180,7 @@ const App: React.FC = () => {
       {generatedData && (
         <div
           id="preview-section"
-          className="max-w-[1440px] mx-auto"
+          className="max-w-[1300px] mx-auto"
         >
           <div
             ref={resultRef}
